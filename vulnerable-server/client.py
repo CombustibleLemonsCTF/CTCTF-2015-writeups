@@ -14,6 +14,7 @@ See natas15 of the overthewire wargames for an example of this type of SQL
 attack.
 '''
 
+
 import urllib.request, urllib.parse
 from string import ascii_lowercase, ascii_uppercase, digits
 

@@ -1,12 +1,12 @@
 # CTCTF 2015 Writeups
 
-We are the `CombustibleLemons` ([Jonathan Lee](https://github.com/jonathanlee1), [Tim Cyrus](https://github.com/tcyrus)) from TJHSST.
+We are the `CombustibleLemons` ([Jonathan Lee](https://github.com/jonathanlee1), [Tim Cyrus](https://github.com/tcyrus)) from [TJHSST](http://activities.tjhsst.edu/csc/).
 
 If you are in a hurry, then here are the [flags](flags.json).
 
 Here are writeups for [CTCTF 2015](http://ctctf.io/), a jeopardy-style computer security competition where teams obtain flags from challenges and submit them to the website for points.
 
-&gt;&gt;&gt; Happy hacking
+`>>> Happy hacking`
 
 | Challenge Name                                              | Points | Status    |
 |-------------------------------------------------------------|--------|-----------|

@@ -29,7 +29,7 @@ The solution was surprisingly simple.
 
 The first two hints tell us that each byte (i.e. two hexadecimal digits) translates to a character in the original message. However, the encoding scheme is not ASCII: 
 
-```
+```python
 [!] python3
 Python 3.3.2+ (default, Feb 28 2014, 00:52:16) 
 [GCC 4.8.1] on linux

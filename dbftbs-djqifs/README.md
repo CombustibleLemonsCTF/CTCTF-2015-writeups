@@ -42,6 +42,8 @@ captured
 
 **Flag**: `captured_the_flag`
 
+Fun fact: the problem title is "Caesar Cipher" with `n = 25`.
+
 ### Other Resources
 
 * None.
