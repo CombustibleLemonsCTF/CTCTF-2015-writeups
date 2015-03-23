@@ -27,6 +27,6 @@ Here are writeups for [CTCTF 2015](http://ctctf.io/), a jeopardy-style computer 
 | [Legend of Twerkopter](legend-of-twerkopter)                | 50     | Completed |
 | [Uninteresting gif](uninteresting-gif)                      | 60     | Completed |
 | [Vulnerable Server](vulnerable-server)                      | 60     | Completed |
-| [8675309](8675409)                                          | 70     | Completed |
+| [8675309](8675309)                                          | 70     | Completed |
 | [This problem is 3 hard 3 me!](this-problem-is-3-hard-3-me) | 70     | Completed |
 | [Lucas's Note](lucass-note)                                 | 75     | Completed |
