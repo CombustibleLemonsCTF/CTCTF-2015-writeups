@@ -10,9 +10,7 @@
 
 **Hint**: 
 
-```
-Hint
-```
+> Hint
 
 ### Solution
 

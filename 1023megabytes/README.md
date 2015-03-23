@@ -6,9 +6,7 @@
 
 **Description**: 
 
-```
-My name is Michael Zhang.
-```
+> My name is Michael Zhang.
 
 **Hint**: 
 

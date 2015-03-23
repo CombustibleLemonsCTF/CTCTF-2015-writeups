@@ -6,15 +6,11 @@
 
 **Description**: 
 
-```
-Frogs are known to have excellent eyesight. Being a designer, Kelvin the Frog also has excellent taste for colors. Here's a list of his favorite colors.
-```
+> Frogs are known to have excellent eyesight. Being a designer, Kelvin the Frog also has excellent taste for colors. Here's a list of his favorite colors.
 
 **Hint**: 
 
-```
-What does the # do?
-```
+> What does the # do?
 
 ### Solution
 

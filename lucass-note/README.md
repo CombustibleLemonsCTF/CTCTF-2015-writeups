@@ -6,16 +6,12 @@
 
 **Description**: 
 
-```
-
-note.txt
-```
+>   
+> note.txt
 
 **Hint**: 
 
-```
-lucas is a pretty cool dude
-```
+> lucas is a pretty cool dude
 
 ### Solution
 

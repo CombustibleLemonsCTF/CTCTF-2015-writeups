@@ -10,9 +10,7 @@
 
 **Hint**: 
 
-```
-What do you know about QR codes?
-```
+> What do you know about QR codes?
 
 ### Solution
 

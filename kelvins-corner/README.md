@@ -6,16 +6,12 @@
 
 **Description**: 
 
-```
-Kelvin just created his personal website. See if there's anything suspicious!
-Kelvin's Website
-```
+> Kelvin just created his personal website. See if there's anything suspicious!  
+> Kelvin's Website
 
 **Hint**: 
 
-```
-Try viewing the page source
-```
+> Try viewing the page source
 
 ### Solution
 

@@ -10,9 +10,7 @@ None given.
 
 **Hint**: 
 
-```
-unitedjaymo
-```
+> unitedjaymo
 
 ### Solution
 

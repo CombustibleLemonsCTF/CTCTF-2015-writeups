@@ -6,9 +6,7 @@
 
 **Description**: 
 
-```
-Csbjogvdl jt bo ftpufsjd qsphsbnnjoh mbohvbhf opufe gps jut fyusfnf njojnbmjtn. Uif mbohvbhf dpotjtut pg pomz fjhiu tjnqmf dpnnboet boe bo jotusvdujpo qpjoufs. Ju jt eftjhofe up dibmmfohf boe bnvtf qsphsbnnfst, boe xbt opu nbef up cf tvjubcmf gps qsbdujdbm vtf. Ju xbt dsfbufe jo 1993 cz Vscbo Nümmfs. Bozxbzt, uif gmbh jt tufq_ju_vq
-```
+> Csbjogvdl jt bo ftpufsjd qsphsbnnjoh mbohvbhf opufe gps jut fyusfnf njojnbmjtn. Uif mbohvbhf dpotjtut pg pomz fjhiu tjnqmf dpnnboet boe bo jotusvdujpo qpjoufs. Ju jt eftjhofe up dibmmfohf boe bnvtf qsphsbnnfst, boe xbt opu nbef up cf tvjubcmf gps qsbdujdbm vtf. Ju xbt dsfbufe jo 1993 cz Vscbo Nümmfs. Bozxbzt, uif gmbh jt tufq_ju_vq
 
 **Hint**: 
 

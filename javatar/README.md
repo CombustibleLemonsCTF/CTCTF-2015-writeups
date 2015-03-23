@@ -6,16 +6,12 @@
 
 **Description**: 
 
-```
-C++, JavaScript, Python, Java. Long ago four languages worked together then, everything changed when annoying developers started complaining. Only the Javatar can master all four languages.
+> C++, JavaScript, Python, Java. Long ago four languages worked together then, everything changed when annoying developers started complaining. Only the Javatar can master all four languages.
 Javatar
-```
 
 **Hint**: 
 
-```
-Check out jd-gui
-```
+> Check out jd-gui
 
 ### Solution
 

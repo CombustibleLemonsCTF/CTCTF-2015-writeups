@@ -6,15 +6,11 @@
 
 **Description**: 
 
-```
-Kyv wcrx zj trgklivu_kyv_wcrx
-```
+> Kyv wcrx zj trgklivu_kyv_wcrx
 
 **Hint**: 
 
-```
-Step it up
-```
+> Step it up
 
 ### Solution
 

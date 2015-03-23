@@ -6,16 +6,12 @@
 
 **Description**: 
 
-```
-Take a look at Kelvin's newest app:
-Twerkopter.xap
-```
+> Take a look at Kelvin's newest app:  
+> Twerkopter.xap
 
 **Hint**: 
 
-```
-What's a XAP file?
-```
+> What's a XAP file?
 
 ### Solution
 

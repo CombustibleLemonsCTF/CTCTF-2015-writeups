@@ -6,17 +6,13 @@
 
 **Description**: 
 
-```
-Just keep going…
-persevere.txt
-Rot13->b64->repeat, should be automated for good results.
-```
+> Just keep going…  
+> persevere.txt  
+> Rot13->b64->repeat, should be automated for good results.
 
 **Hint**: 
 
-```
-nope
-```
+> nope
 
 ### Solution
 

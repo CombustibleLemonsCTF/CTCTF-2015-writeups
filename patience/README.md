@@ -10,9 +10,7 @@
 
 **Hint**: 
 
-```
-Sometimes the obvious isn't the answer
-```
+> Sometimes the obvious isn't the answer
 
 ### Solution
 
