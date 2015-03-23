@@ -15,7 +15,7 @@
 
 ### Solution
 
-The hint explicitly says to look at the [page](http://ctctf.io/problem_data/Kelvin/website.html)'s source, which is the raw HTML that specifies how the page should be formatted. In Chrome, we can view the [page source](website.html) using `CTRL-U` (or `CTRL-SHIFT-J`, which opens up the developer console).
+The hint explicitly says to look at the [page](http://ctctf.io/problem_data/Kelvin/website.html)'s source, which is the raw HTML that specifies how the page should be formatted. In Chrome, we can view the [page source](website.html) using <kbd>CTRL</kbd>+<kbd>U</kbd> (or <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>J</kbd>, which opens up the developer console).
 
 The flag is in the comment, which is marked with `<!--` and `-->`, after the image element.
 
