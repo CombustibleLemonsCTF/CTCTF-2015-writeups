@@ -1,4 +1,4 @@
-# CTCTF 2015: Hello CTCTFer
+# CTCTF 2015: 1023megabytes
 
 ### Problem
 
