@@ -26,7 +26,7 @@ Because there is no filtering in place, we can alter the query and the condition
 1. Loop over all of the valid characters (i.e. the alphanumeric characters as well as the underscore).
 2. Given a current character of the loop, create a query that tests whether the username is `admin` and whether the password starts with the current password plus the current character.
 3. Send the query to the server.
-4. If the query returns a success, then add the current character to the current password, and go back to step 1 to loop start over.
+4. If the query returns a success, then add the current character to the current password, and go back to step 1 to start over the loop.
 5. Otherwise, continue to the next character at step 2.
 6. If there are no more characters to loop over, then you have the full password.
 
@@ -36,4 +36,5 @@ We wrote [this script](client.py) to automate the guessing process.
 
 ### Other Resources
 
-* None.
+* [SQL tutorial](http://www.w3schools.com/sql/)
+* [An overview of SQL injection](https://docs.google.com/presentation/d/1Zj3qMvDRBEnnh9EFyEf0bUgSTc6g2o0ZxGm6QdHTE4o/edit)
